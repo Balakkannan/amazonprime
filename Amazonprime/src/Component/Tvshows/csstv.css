@@ -1,0 +1,32 @@
+.flex-wrapper{
+    overflow-x: auto;
+    white-space: nowrap; 
+    padding: 10px; 
+}
+.flex-wrapper::-webkit-scrollbar {
+    display: none; 
+}
+.moviehover {
+    height: 50%;
+    width: 20%;
+    border-radius: 20px;
+    transition: transform 0.3s; 
+}
+.moviehover:hover{
+    transform: scale(1.20);
+    overflow: visible;
+}
+.overfly{
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.7848389355742297) 100%, rgba(1,1,1,0.272233893557423) 50%, rgba(0,0,0,1) 50%, rgba(0,0,0,1) 50%);
+    height: 100%;
+    width: 800px;
+    position: absolute; 
+    float: left;
+    z-index: 1 ;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+    padding-top: 20px;
+}

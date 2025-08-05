@@ -1,0 +1,16 @@
+.bgimagemain{
+    height: 70%;
+    background-position-y: 15% 5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titlebox{
+    width: 400px;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 62%, rgba(1,1,1,0.37307422969187676) 85%, rgba(0,0,0,0) 100%, rgba(239,251,255,1) 100%);
+}
+.boxhover:hover{
+    box-shadow: 0px 0px 15px black ;
+}
+

@@ -1,0 +1,6 @@
+.texthover{
+     color: #76b3ec;
+}
+.texthover:hover{
+     color: rgb(108, 205, 237);
+}

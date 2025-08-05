@@ -1,0 +1,61 @@
+.serchbox{
+    background-color: black;
+    outline: none;
+    border: none;
+
+}
+.serchbox1{
+    color: white;
+}
+.serchbox1:hover{
+        color: black;
+}
+.dropbtn{
+    color: white;
+}
+.dropbtn:focus{
+ border: none;
+ outline: none;
+ box-shadow: none;
+}
+.menudrop{
+    outline: none;
+    box-shadow: none;
+    border: none; 
+}
+.menudrop:focus{
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+.buttonmenu{
+    border: none; 
+    outline: none;
+    box-shadow: none;
+}
+.buttonmenu:focus{
+
+    border: none; 
+    outline: none;
+    box-shadow: none;
+}
+.userbox:hover{
+    background-color: white;
+}
+.fontcolor{
+    color: #44657f;
+  
+}
+.fontcolor:hover{
+        color: #44657f;
+}
+.dropbox{
+    border:none;
+    outline: none;
+    box-shadow: none;
+}
+.dropbox:focus{
+    border:none;
+    outline: none;
+    box-shadow: none;
+}
